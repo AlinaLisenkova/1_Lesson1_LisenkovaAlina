@@ -50,3 +50,4 @@ for i in time{
     counter += 1
 }
 
+//Мои изменения1
